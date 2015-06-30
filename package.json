@@ -1,0 +1,25 @@
+{
+  "name": "foxxutils",
+  "version": "0.0.1",
+  "description": "Handful utility functions for Foxx framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "foxx",
+    "arangodb",
+    "require",
+    "requireApp name"
+  ],
+  "author": "Omar Al-Safi <omarsmak@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedgerio/foxxsupertest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fedgerio/foxxsupertest/issues"
+  },
+  "homepage": "https://github.com/fedgerio/foxxsupertest#readme"
+}
