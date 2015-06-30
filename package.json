@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fedgerio/foxxsupertest.git"
+    "url": "git+https://github.com/fedgerio/foxxutils.git"
   },
   "bugs": {
-    "url": "https://github.com/fedgerio/foxxsupertest/issues"
+    "url": "https://github.com/fedgerio/foxxutils/issues"
   },
-  "homepage": "https://github.com/fedgerio/foxxsupertest#readme"
+  "homepage": "https://github.com/fedgerio/foxxutils#readme"
 }
